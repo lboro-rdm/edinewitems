@@ -1,0 +1,12 @@
+name: edinewitems
+title: edinewitems
+username: research-data-lboro
+account: research-data-lboro
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12305490
+bundleId: 8852013
+url: https://research-data-lboro.shinyapps.io/edinewitems/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
